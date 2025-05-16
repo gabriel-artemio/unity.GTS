@@ -14,10 +14,7 @@
 ## 🚀 Sobre o Projeto
 
 O **Gabriel Truck Simulator (GTS)** é um simulador de transporte rodoviário desenvolvido em Unity 3D com C#.  
-Inspirado em simuladores clássicos, o projeto foca em realismo, progressão por experiência e desafios no transporte de cargas.
-
-<!-- Você pode colocar aqui um GIF de gameplay futuramente -->
-<!-- ![Gameplay GIF](link-para-o-gif.gif) -->
+Inspirado em simuladores clássicos, o projeto foca em progressão por experiência e desafios no transporte de cargas.
 
 ---
 
