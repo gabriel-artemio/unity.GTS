@@ -6,7 +6,7 @@
 
 Este é um projeto que estou desenvolvendo na Unity 3D, utilizando C#.
 
-## Versão : 1.0.1
+## Versão : Alfa 1.0.1
 * Movimentação básica, setas  
 * Faróis, luzes de freios e setas  
 * Troca de câmera  
