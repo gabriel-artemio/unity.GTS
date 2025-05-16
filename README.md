@@ -1,4 +1,6 @@
-# GTS - Gabriel Truck Simulator
+<h1 align="center">
+  GTS - Gabriel Truck Simulator
+</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9a8e4c63-b5ee-492d-a9c0-90594504cb15" alt="Logo GTS" width="300"/>
