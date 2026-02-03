@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Simulador de caminhões brasileiro feito com Unity 3D</strong><br>
-  <a href="[https://github.com/gabriel-artemio/unity.GTS.wiki.gi](https://github.com/gabriel-artemio/unity.GTS/wiki)t"><b>📚 Acesse a Wiki do Projeto</b></a>
+  <a href="https://github.com/gabriel-artemio/unity.GTS/wiki"><b>📚 Acesse a Wiki do Projeto</b></a>
 </p>
 
 ---
