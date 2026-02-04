@@ -41,41 +41,7 @@ Esta é uma versão inicial **jogável**, com os seguintes recursos implementado
 
 ---
 
-## 📌 Status do Projeto
-
-> ✅ **Em desenvolvimento ativo**  
-> 🎯 **Foco atual:**
-> - Adição do mapa oficial do jogo
-> - Implementação de novos tipos de carga  
-> - Sistema de mapa com GPS  
-> - IA de tráfego  
-> - Interface de seleção de entregas com XP mínimo
-> - Interface de seleção dos locais das entregas
-> - Adição do mapa oficial do jogo
----
-
-## 🗺️ Roadmap (planejado)
-
-- [x] Movimento e controle básico
-- [x] Sistema de entregas e XP
-- [x] Iluminação e efeitos visuais
-- [ ] Sistema de fretes com dificuldade
-- [ ] IA de tráfego
-- [ ] Ciclo de dia/noite
-- [ ] Personalização de caminhões
-- [ ] Estados brasileiros
-
----
-
 ## 🤝 Contribuindo
 
 Quer ajudar com ideias, código ou testes?  
-Confira as diretrizes na **[Wiki do projeto](https://github.com/gabriel-artemio/unity.GTS.wiki.git)**  
-e sinta-se à vontade para abrir *issues* ou *pull requests*! 🚀
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença **MIT**.  
-Consulte o arquivo `LICENSE` para mais informações.
+Confira as diretrizes na **[Wiki do projeto](https://github.com/gabriel-artemio/unity.GTS.wiki.git)** 🚀
