@@ -1,0 +1,3 @@
+[skin] 
+skin001=[R3D SKINS] 1 1882.png
+skin002=Santa Brigida - 1 1725_Placa.png
